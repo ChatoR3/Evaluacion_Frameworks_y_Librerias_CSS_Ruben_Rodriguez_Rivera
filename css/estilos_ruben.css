@@ -1,9 +1,39 @@
+/*Estilo para la etiqueta body*/
+body{
+	background-color: #000000;
+}
+
+/*Estilo para la etiqueta input*/
+input{
+	margin-top: 15px;
+}
+
+/*Clase de estilos del header*/
+.header{
+	background-color: white;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	
+}
+
+/*Clase de estilos de Nav*/
+.nav{
+	background-color: red;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
 /*clase para imagenes redes sociales*/
 .sociales-img{
+	
+	margin-top: 172px;
 	width: 40px;
 	height: 40px;
 }
 
-.redes-sociales{
-	margin-top: 20px;
+/*clase para estilos de btn-nav*/
+.btn-nav{
+	background-color: rgba(223, 100, 9, 0.95);	color: white;
 }
+
+
