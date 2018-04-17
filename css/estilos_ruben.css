@@ -8,6 +8,26 @@ input{
 	margin-top: 15px;
 }
 
+/*clase para estilos de btn-nav*/
+.btn-nav{
+	background-color: rgba(223, 100, 9, 0.95);	color: white;
+}
+
+/*clase para estilos de la clase comentarios*/
+.comentarios{
+	margin-left: 15px;	
+}
+
+/*clase para estilos del contenedor contenido*/
+.contenido{
+	background-color: white;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	margin-top: 15px;
+}
+
 /*Clase de estilos del header*/
 .header{
 	background-color: white;
@@ -23,6 +43,11 @@ input{
 	border-bottom-right-radius: 10px;
 }
 
+/*clase para estilos post-uno*/
+.post-uno{
+	
+}
+
 /*clase para imagenes redes sociales*/
 .sociales-img{
 	
@@ -31,9 +56,18 @@ input{
 	height: 40px;
 }
 
-/*clase para estilos de btn-nav*/
-.btn-nav{
-	background-color: rgba(223, 100, 9, 0.95);	color: white;
+/*clase para icono de usuario comentarios*/
+.usuario{
+	width: 100px;
+	height: 100px;
 }
+
+/*clase para imagen de los victorios*/
+.victorios-img{
+	margin-top: 80px;
+}
+
+
+
 
 
