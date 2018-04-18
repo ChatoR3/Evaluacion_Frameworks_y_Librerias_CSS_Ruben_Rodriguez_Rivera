@@ -3,9 +3,19 @@ body{
 	background-color: #000000;
 }
 
+/*Estilo etiqueta button*/
+button{
+	margin-top: 15px;
+}
 /*Estilo para la etiqueta input*/
 input{
 	margin-top: 15px;
+}
+
+/*clase para estilos de btn-buscar*/
+.btn-buscar{
+	margin-top: 15px;
+	border: solid 1px #b3cccc;
 }
 
 /*clase para estilos de btn-nav*/
@@ -43,29 +53,51 @@ input{
 	border-bottom-right-radius: 10px;
 }
 
+/*clase para imagen vl18*/
+.panteon-img{
+	width: 236px;
+	margin-top: 135px;
+	margin-left: 15px;
+}
+
 /*clase para estilos post-uno*/
 .post-uno{
 	
 }
 
+/*clase para estilos post-dos*/
+.post-dos{
+
+}
+
+.search-img{
+	width: 25px;
+	height: 25px;
+}
+
 /*clase para imagenes redes sociales*/
 .sociales-img{
-	
 	margin-top: 172px;
 	width: 40px;
 	height: 40px;
 }
 
+.sombra-list:hover{
+	background-color: rgb(238, 242, 255);
+}
+
 /*clase para icono de usuario comentarios*/
 .usuario{
-	width: 100px;
-	height: 100px;
+	width: 90px;
+	height: 90px;
+	
 }
 
 /*clase para imagen de los victorios*/
 .victorios-img{
-	margin-top: 80px;
+	margin-top: 125px;
 }
+
 
 
 
