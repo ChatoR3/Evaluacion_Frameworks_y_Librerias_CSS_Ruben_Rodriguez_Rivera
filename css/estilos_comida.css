@@ -1,0 +1,42 @@
+/*Clase para estilos del body*/
+.comida-body{
+	background: url(../img/tomahawk.jpg);
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-position: center center center center;
+	background-size: cover;
+}
+
+/*Clase para estilos de letras del Header*/
+.letras{
+	color: white;
+}
+
+.transparencia{
+	background: rgba(0, 0, 0, 0.4)
+}
+
+.slogan{
+	margin-top: 0px;
+	margin-right: 5px;
+}
+
+.left-column{
+	border-right: 1px solid white;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.top-column{
+	border-top: 1px solid white;
+}
+
+.buscador{
+	margin-top: 20px;
+}
+
+.search-img{
+	width: 20px;
+	height: 20px;
+}
