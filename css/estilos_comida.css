@@ -13,30 +13,86 @@
 	color: white;
 }
 
+/*Clase para crear transparencia*/
 .transparencia{
-	background: rgba(0, 0, 0, 0.4)
+	background: rgba(0, 0, 0, 0.7)
 }
 
+/*Clase para margenes del slogan*/
 .slogan{
 	margin-top: 0px;
 	margin-right: 5px;
 }
 
+/*Clase para borde blanco columna izquierda*/
 .left-column{
 	border-right: 1px solid white;
-	margin-bottom: 20px;
-	margin-top: 20px;
 }
 
+/*Clase para borde superior contenido*/
 .top-column{
 	border-top: 1px solid white;
 }
 
-.buscador{
+/*Clase para tamaño de la imagen de Lupa*/
+.search-img{
+	width: 10px;
+	height: 10px;
+}
+
+/*Clase para color de fondo de contenedores*/
+.background-col{
+	background: rgba(0, 0, 0, 0.8);
+}
+
+/*Clase Margen superior caja de texto Buscar*/
+.input-buscar{
 	margin-top: 20px;
 }
 
-.search-img{
-	width: 20px;
-	height: 20px;
+/*Clase Margen superior Botón Buscar*/
+.boton-buscar{
+	margin-top: 20px;
+}
+
+/*Clase Margen superior e inferior contenedores*/
+.contenido{
+	margin-top: 20px;
+}
+
+/*Clase padding ancho de contenedores*/
+.padding{
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+/*Clase para margen superior menú*/
+.menu{
+	margin-top: 0px;
+}
+
+/*Clase para el ancho de los botones menú*/
+.a-menu{
+	width: 225px;
+}
+
+/*Quita los puntos negros de la lista-menu*/
+ul{
+	list-style: none;
+}
+
+/*clase margen derecho del menú*/
+.margen-menu{
+	margin-right: 20px;
+}
+
+/*Clase estilos galeria*/
+.galeria{
+	width: 90px;
+	height: 90px;
+	border: solid white 1px;
+}
+
+.margen-articulo{
+	margin-left: 15px;
 }
